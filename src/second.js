@@ -31,7 +31,7 @@ getResult = (arr) => {
             max = Math.max(max, child[0].length * child[1].length)
         }
     });
-    console.log(max);
+   return max;
 }
 
 
