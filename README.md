@@ -1,8 +1,8 @@
 # Oriente
 
 一个有words组成的数组，找出其中长度前2的word求其长度的乘积，这两个word不能包含同样的字母，假设单词的字母都是小写,如果没有这个的两个word,返回０  
-example :```["abcd","fax","fc","xndf","mtx","yz"]```
-return: ```"xndf".length*mtx.length = 12```
+example :```["abcd","fax","fc","xndf","mtx","yz"]```  
+return: ```"xndf".length*mtx.length = 12```     
 
 说明 :  源代码中没有对words数组作约束，  非words 数组不在考虑范围之内.**目前没有想到最优解让时间复杂度进一步降低**
 
